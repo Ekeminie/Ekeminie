@@ -8,6 +8,10 @@
 
 <h3> 👨🏻‍💻 About Me </h3>
 
+<div align="center">
+  <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"/>
+</div>
+
 - 🔭 &nbsp; I’m a clever and studious Mobile Engineer,
 - 🤔 &nbsp; Building solutions for mobile using cutting edge technologies.
 - 💼 &nbsp; I can work with Java, Kotlin, and Flutter/Dart.
