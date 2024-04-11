@@ -17,7 +17,6 @@
 - 💼 &nbsp; I can work with Java, Kotlin, and Flutter/Dart.
 - 🌱 &nbsp; Enthusiast in AI (Deep Learning) and Blockchain.
 - 👯♂ I’m currently actively learning Jetpack Compose.
-- :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-kakbar-blue?style=flat&logo=Linkedin&logoColor=white)]([your-linkedin-url](https://www.linkedin.com/in/ekeminieshiet/))
 
 <h3>🛠 Tech Stack</h3>
 
