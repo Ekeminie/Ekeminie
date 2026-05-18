@@ -1,29 +1,3 @@
-<div id="header" align="center">
-  <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
-</div>
-<img src="https://komarev.com/ghpvc/?username=your-github-username&style=flat-square&color=blue" alt=""/>
-<h2> Hey there! I'm Ekemini Eshiet. <img src="https://github.com/souvikguria98/souvikguria98/blob/master/Hi.gif" width="25"></h2>
-<h3> 👨🏻‍💻 About Me </h3>
-<div align="center">
-  <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"/>
-</div>
-- 🔭 &nbsp; I'm a clever and studious Mobile Engineer,
-- 🤔 &nbsp; Building solutions for mobile using cutting edge technologies.
-- 💼 &nbsp; I can work with Java, Kotlin, and Flutter/Dart.
-- 🌱 &nbsp; Enthusiast in AI (Deep Learning) and Blockchain.
-- 👯♂ I'm currently actively learning Jetpack Compose.
-<h3>🛠 Tech Stack</h3>
-- 💻 &nbsp; Dart | Java | Kotlin
-- 🌐 &nbsp; Android | flutter
-- 🛢 &nbsp; GraphQl | Firebase
-- 🔧 &nbsp; Android Studio | Visual Studio code | Git
-- 🖥 &nbsp; Figma
-<br>
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=Uticodes&include_all_commits=true&count_private=true&show_icons=true&line_height=20&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40" alt="Uticodes's Github Stats">
-</br>
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Ekeminie&layout=compact&text_color=daf7dc&bg_color=151515)](https://github.com/devSouvik/github-readme-stats)
-
-
 
 
 <!-- <div id="header" align="center">
